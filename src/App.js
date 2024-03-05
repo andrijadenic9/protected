@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tamara grana
+          Tamara grana - Andrija je promenio
+        
         </a>
       </header>
     </div>
