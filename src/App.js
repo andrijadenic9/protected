@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tamara Branch - ispravljenja od strane andrije
+        Tamara Branch - Ispravljanje od strane Tamare
+        1
         </a>
       </header>
     </div>
