@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Main grana
+          Tamara grana
         </a>
       </header>
     </div>
