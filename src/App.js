@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        {/* // * Ovaj komentar je sa main grane, pushovao Andrija */}
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -15,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Andrija proba da radeci u tamaraBranch pushuje na main granu
-        
+          Tamara Branch - ispravljenja od strane andrije
         </a>
       </header>
     </div>
